@@ -1,0 +1,19 @@
+Alex_comentarios
+__ Gilvan ___
+Erosão térmica deslocar as partículas das regiões íngremes.
+Descrever melhor se serve para outras regiões.
+
+Teste com os dois de erosão juntos
+
+__ Mauro ___
+a minha hipótese .. aqui merece um estudo mais melhorado
+
+Em todos os casos é necessário primeiro informar para o shader quais valores serão utilizados durante o processamento em GPU, que serão copiados da memória em CPU para a memória compartilhada da GPU.
+
+Pensamentos___
+Densidades de solo ... TCC Diegoli Neto
+
+Mapa de cores __
+Associar as cores ao tipo de terreno que se quer modelar
+Colocar uma "pele" ..
+
