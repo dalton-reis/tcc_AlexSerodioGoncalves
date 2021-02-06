@@ -1,0 +1,10 @@
+TUTORIAL
+
+EXECUTAVEL
+- A aplicação final executável pode ser encontrada no diretório /Fontes/executaveis com o nome procedural-terrain-generation-demo-windows.zip. Para executá-la basta descompactar e executar o arquivo procedural-terrain-generation.exe.
+- Na mesma pasta também existe o arquivo procedural-terrain-generation.unitypackage. Este arquivo é um plugin para Unity que ao ser executado irá importar para dentro de um projeto Unity já existente todos os scripts desenvolvidos utilizados para gerar terrenos.
+
+FONTES
+- A aplicação foi desenvolvida utilizando o motor gráfico Unity3D na versão 2020.1.17f1 em um sistema operacional Windows 10. O projeto com todos os fontes esta disponível na pasta /Fontes/projeto. Para abrir o projeto é necessário ter a Unity3D instalada no computador e recomenda-se utilziar a mesma versão na qual o projeto foi desenvolvido (2020.1.17f1), apesar de que versões diferentes também podem funcionar.
+- Nenhuma biblioteca ou aplicação adicional foi utilizada. O projeto também não se conecta a internet ou requer qualquer configuração prévia. Portanto para executar os fontes basta descompactar o projeto dentro da pasta /Fontes/projeto e abrí-lo na Unity.
+
